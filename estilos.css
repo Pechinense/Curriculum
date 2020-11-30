@@ -64,7 +64,10 @@ article>ul>p{
     text-indent: -2em;
 }
 /*************************************************/
-
+ul>li{
+    list-style: none;
+    padding-left: 2px;
+}
 
 
 
